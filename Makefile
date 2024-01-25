@@ -1,4 +1,4 @@
 all:
-	gcc Prob21_1.c
+	gcc *.c
 clean:
-	rm *.out
+	rm -f *.o *.out
